@@ -1,0 +1,36 @@
+body {
+    background-color: #ab907a;
+}
+
+p {
+    font-family: 'Roboto Slab', serif;
+    font-size: large;
+}
+
+#footer{
+    position: relative;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+
+.firstTEXT {
+    padding: 1%;
+}
+
+.images {
+    border-radius: 50%;
+}
+
+.images{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+
